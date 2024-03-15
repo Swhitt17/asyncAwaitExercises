@@ -1,0 +1,19 @@
+body{
+    background-color: #0c730a;
+    text-align: center;
+}
+
+button:hover{
+    cursor:pointer
+}
+
+#card-area {
+    margin-top: 80px;
+}
+
+#card-area > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
